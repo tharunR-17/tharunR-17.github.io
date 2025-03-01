@@ -467,6 +467,9 @@ img {
     column-gap: 2rem;
     padding-top: 2rem;
   }
+  .project_container h4 {
+    padding: 15px;
+  }
   .contact_form {
     width: 360px;
     padding-top: 2rem;
